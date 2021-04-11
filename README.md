@@ -1,2 +1,2 @@
 # TransFill-Reference-Inpainting
-This is the official repo for TransFill: : Reference-guided Image Inpainting by Merging Multiple Color and Spatial Transformations at CVPR'21. According to some product reasons, we are not planning to release the training/testing codes and models. However, we will release the dataset and the scripts to prepare the dataset. 
+This is the official repo for TransFill: Reference-guided Image Inpainting by Merging Multiple Color and Spatial Transformations at CVPR'21. According to some product reasons, we are not planning to release the training/testing codes and models. Online-demo will be public once we set up the server. However, we will release the testing dataset for comparsion, and the scripts to prepare the training dataset. 
