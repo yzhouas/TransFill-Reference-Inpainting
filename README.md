@@ -1,5 +1,5 @@
 # TransFill-Reference-Inpainting
-This is the official repo for TransFill: Reference-guided Image Inpainting by Merging Multiple Color and Spatial Transformations at CVPR'21. According to some confidential reasons, we are not planning to release the training/testing codes and models. Online-demo will be public once we set up the server. However, we release the testing dataset for comparsion, and the scripts to prepare the training dataset.
+This is the official repo for TransFill: Reference-guided Image Inpainting by Merging Multiple Color and Spatial Transformations (Yuqian Zhou, Connelly Barnes, Eli Shechtman, Sohrab Amirghodsi) at CVPR'21. According to some confidential reasons, we are not planning to release the training/testing codes and models. Online-demo will be public once we set up the server. However, we release the testing dataset for comparsion, and the scripts to prepare the training dataset.
 
 [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_TransFill_Reference-Guided_Image_Inpainting_by_Merging_Multiple_Color_and_Spatial_CVPR_2021_paper.html) | [[Project]](https://yzhouas.github.io/projects/TransFill/index.html) | [[Demo Video]]() 
 
