@@ -4,6 +4,12 @@ This is the official repo for TransFill: Reference-guided Image Inpainting by Me
 
 ## Introduction
 
+<div align="center">
+  <img src="figs/teaser.png" width="100%">
+  Applications of TransFill: Photo Content Swap, Object Removal, Color Adjustment.
+</div>
+
+Image inpainting is the task of plausibly restoring missing pixels within a hole region that is to be removed from a target image. Most existing technologies exploit patch similarities within the image, or leverage large-scale training data to fill the hole using learned semantic and texture information. However, due to the ill-posed nature of the inpainting task, such methods struggle to complete larger holes containing complicated scenes. In this paper, we propose TransFill, a multi-homography transformed fusion method to fill the hole by referring to another source image that shares scene contents with the target image. We first align the source image to the target image by estimating multiple homographies guided by different depth levels. We then learn to adjust the color and apply a pixel-level warping to each homography-warped source image to make it more consistent with the target. Finally, a pixel-level fusion module is learned to selectively merge the different proposals. Our method achieves state-of-the-art performance on pairs of images across a variety of wide baselines and color differences, and generalizes to user-provided image pairs.
 
 ## Download and Prepare RealEstate10K
 We prepare the script of downloading and extracting paired frames from RealEstate10K.
