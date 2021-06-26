@@ -49,13 +49,12 @@ We won't keep your data and will return the testing results to you within 2 work
 ## Citation
 If you think this repo and the manuscript helpful, please consider citing us.
 ```
-@InProceedings{Zhou_2021_CVPR,
-    author    = {Zhou, Yuqian and Barnes, Connelly and Shechtman, Eli and Amirghodsi, Sohrab},
-    title     = {TransFill: Reference-Guided Image Inpainting by Merging Multiple Color and Spatial Transformations},
-    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-    month     = {June},
-    year      = {2021},
-    pages     = {2266-2276}
+@inproceedings{zhou2021transfill,
+  title={TransFill: Reference-guided Image Inpainting by Merging Multiple Color and Spatial Transformations},
+  author={Zhou, Yuqian and Barnes, Connelly and Shechtman, Eli and Amirghodsi, Sohrab},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={2266--2276},
+  year={2021}
 }
 ```
 
